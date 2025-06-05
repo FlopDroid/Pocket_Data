@@ -1,0 +1,42 @@
+{
+  "news": [
+    {
+      "new_app_update1": [
+      { "title": "Φτιάχνεται η νέα FD εφαρμογή" },
+      { "messaga": "Ακόμα beta είναι όμως" },
+      { "from": "Android_Creator" },
+      { "time": "5/6/2025" },
+      { "url_icon": "" },
+      { "type": ["application pocket, android, FlopDroid"] }
+      ]
+    },
+    {
+      "sometihng_modern": [
+      { "title": "Φτιάχνεται η νέα FD εφαρμογή" },
+      { "messaga": "Ακόμα beta είναι όμως" },
+      { "from": "Android_Creator" },
+      { "time": "5/6/2025" },
+      { "url_icon": "" },
+      { "type": ["application pocket, android, FlopDroid"] }
+      ]
+    }
+    {
+      "old": [
+      { "title": "Φτιάχνεται η νέα FD εφαρμογή" },
+      { "messaga": "Ακόμα beta είναι όμως" },
+      { "from": "Android_Creator" },
+      { "time": "5/6/2025" },
+      { "url_icon": "" },
+      { "type": ["application pocket, android, FlopDroid"] }
+      ]
+          {
+      "blablou": [
+      { "title": "Φτιάχνεται η νέα FD εφαρμογή" },
+      { "messaga": "Ακόμα beta είναι όμως" },
+      { "from": "Android_Creator" },
+      { "time": "5/6/2025" },
+      { "url_icon": "" },
+      { "type": ["application pocket, android, FlopDroid"] }
+      ]
+  ]
+}
