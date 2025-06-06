@@ -24,6 +24,7 @@ Where "the services created by FlopDroid" or "the applications created by FlopDr
 [3] FlopDroid collaborates with the following applications/services: MIT App Inventor, Microsoft (all applications/services offered at no additional cost from the E5 corporate subscription), Google (all Google Services or subsidiaries offered for free use), WordPress, FREEDNS, noip, ZeroTier, GitHub, MediaFire, Discord, Flaticon. Each service has its own Terms of Use and Privacy Policy where each user is obliged to be informed about each application/service that FlopDroid collaborates with.
 
 Service email: flopdroid@gmail.com
+Last update: 6/6/2025
 
 
 
@@ -57,3 +58,4 @@ Greek:
 
 
 Email εξυπηρέτησης: flopdroid@gmail.com
+Τελευταία ενημέρωση: 6/6/2025
