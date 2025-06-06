@@ -1,4 +1,5 @@
-English:
+#English:
+
 By using the application/service, you fully agree to the Terms of Use and Privacy Policy of the applications/services created or provided by FlopDroid
 Where "the services created by FlopDroid" or "the applications created by FlopDroid" or "FlopDroid" or "this specific application/service" is mentioned, it means that it includes the following services: FlopDroid Pocket (android application), flopdroid.wordpress.com
 
@@ -28,7 +29,7 @@ Last update: 6/6/2025
 
 
 
-Greek:
+#Greek:
 
 Με την χρήση της εφαρμογής/υπηρεσίας συμφωνείται πλήρως με τους Όρους Χρήσης και την Πολιτική Απορρήτου των εφαρμογών/υπηρεσιών που δημιουργήθηκαν ή παρέχονται από την FlopDroid
 Όπου αναφέρεται "των υπηρεσιών που δημιουργήθηκαν από τον FlopDroid" ή "των εφαρμογών που δημιουργήθηκαν από τον FlopDroid" ή "FlopDroid" ή "η συγκεκριμένη εφαρμογή/υπηρεσία" εννοείτε ότι συμπεριλαμβάνει τις παρακάτω υπηρεσίες: FlopDroid Pocket (android application), flopdroid.wordpress.com
