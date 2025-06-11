@@ -24,9 +24,25 @@ Where "the services created by FlopDroid" or "the applications created by FlopDr
 [2] Images are provided by flaticon.com and the designers who made them.
 [3] FlopDroid collaborates with the following applications/services: MIT App Inventor, Microsoft (all applications/services offered at no additional cost from the E5 corporate subscription), Google (all Google Services or subsidiaries offered for free use), WordPress, FREEDNS, noip, ZeroTier, GitHub, MediaFire, Discord, Flaticon. Each service has its own Terms of Use and Privacy Policy where each user is obliged to be informed about each application/service that FlopDroid collaborates with.
 
-Service email: flopdroid@gmail.com
-Last update: 6/6/2025
 
+*Credits
+
+-Trademarks
+ZeroTier image is a trademark of ZeroTier Inc
+YouTube image is a trademark of YouTube LLC and Google LLC
+GitHub image is a trademark of Microsoft
+Gravatar image is a trademark of Automattic
+Discord image is a trademark of Discord Inc.
+Any FlopDroid image in any style displayed within the FlopDroid Systems is a trademark of FlopDroid ©️
+Steam image is a trademark of Valve Corporation
+Epic Games image is a trademark of Epic Games Inc.
+Android image is a trademark of Google LLC
+League of Legends image is a trademark of Riot Games
+Minecraft image is a trademark of Mojang Studios
+Fornite image is a trademark of Epic Games Inc.
+
+Service email: flopdroid@gmail.com
+Last update: 11/6/2025
 
 
 #Greek:
@@ -58,5 +74,22 @@ Last update: 6/6/2025
 [3] Η FlopDroid συνεργάζεται με τις εφαρμογές υπηρεσίες: MIT App Inventor, Microsoft (όλες οι εφαρμογές/υπηρεσίες που προσφέρονται δίχως κάποιο επιπλέον κόστος από την εταιρική συνδρομή Ε5), Google (όλα τα Google Services ή θυγατρικές που προσφέρονται για δωρεάν χρήση), WordPress, FREEDNS, noip, ZeroTier, GitHub, MediaFire, Discord, Flaticon. Κάθε υπηρεσία έχει τους δικούς της Όρους Χρήσης και Πολιτική Απορρήτου όπου ο κάθε χρήστης έχει την υποχρέωση να ενημερώνεται για την κάθε εφαρμογή/υπηρεσία που συνεργάζεται η FlopDroid.
 
 
+*Credits
+
+-Εμπορικά Σήματα
+Η εικόνα του ZeroTier είναι εμπορικό σήμα της ZeroTier Inc
+Η εικόνα του YouTube είναι εμπορικό σήμα του YouTube LLC και της Google LLC
+Η εικόνα του GitHub είναι εμπορικό σήμα της Microsoft
+Η εικόνα του Gravatar είναι εμπορικό σήμα της Automattic
+Η εικόνα του Discord είναι εμπορικό σήμα της Discord Inc.
+Οποιαδίποτε εικόνα της FlopDroid σε οποιοδίποτε στυλ που παρουσιάζεται εντός των FlopDroid Συστημάτων είναι εμπορικό σήμα της FlopDroid ©️
+Η εικόνα του Steam είναι εμπορικό σήμα της Valve Corporation
+Η εικόνα του Epic Games είναι εμπορικό σήμα της Epic Games Inc.
+Η εικόνα του android είναι εμπορικό σήμα της Google LLC
+Η εικόνα του League of Legends είναι εμπορικό σήμα της Riot Games
+Η εικόνα του Minecraft είναι εμπορικό σήμα της Mojang Studios
+Η εικόνα του Fornite είναι εμπορικό σήμα της Epic Games Inc.
+
+
 Email εξυπηρέτησης: flopdroid@gmail.com
-Τελευταία ενημέρωση: 6/6/2025
+Τελευταία ενημέρωση: 11/6/2025
